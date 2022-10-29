@@ -32,7 +32,7 @@ function ProjectsPage() {
 
   return (
     <>
-      <h1>Projects</h1>
+      <h1><b>Projects</b></h1>
 
       {error && (
         <div className="row">

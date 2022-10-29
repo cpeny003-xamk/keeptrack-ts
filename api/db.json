@@ -874,14 +874,14 @@
       "id": 100
     },
     {
-      "imageUrl": "https://www.test.tassuapu.fi/wp-content/uploads/2022/03/kissan-koulutus.jpg",
       "id": 500,
       "name": "Another Project",
       "description": "A project description . Mauris iaculis nunc vitae elit commodo lobortis. Sed dapibus, odio sit amet",
+      "imageUrl": "https://www.test.tassuapu.fi/wp-content/uploads/2022/03/kissan-koulutus.jpg",
       "contractTypeId": 1,
-      "isActive": true,
       "contractSignedOn": "2016-03-15T05:00:00.000Z",
-      "budget": 42344
+      "budget": 42344,
+      "isActive": true
     }
   ]
 }
